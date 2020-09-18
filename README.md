@@ -2,4 +2,5 @@
 First Repository
 
 Hi there,
-xlinx7000 in the house. I'm new here and I don't know what I'm doing.
+xlinx7000 in the house
+just learning
